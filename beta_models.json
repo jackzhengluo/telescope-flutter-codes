@@ -1,6 +1,6 @@
 [
-  "gemini-2.5-flash-all",
-  "grok-4.1",
-  "gpt-5-search-api",
-  "gemini-3.1-pro-preview"
+{"id": "gemini-2.5-flash-all", "name": "Gemini 2.5 Flash All", "tags": ["极速", "联网"]},
+  {"id": "grok-4.1", "name": "Grok 4.1", "tags": ["强力", "联网"]},
+  {"id": "gemini-2.5-pro-all", "name": "Gemini 2.5 Pro All", "tags": ["强力", "联网"]},
+  {"id": "gpt-5-search-api", "name": "GPT-5 Search API", "tags": ["强力", "联网"]}
 ]
