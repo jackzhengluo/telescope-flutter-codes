@@ -1,6 +1,6 @@
 [
-  {"id": "gpt-4o-mini", "name": "GPT-4o Mini", "provider": "OpenAI", "tags": ["极速"], "context": "128K", "vision": true, "default": true},
   {"id": "grok-4-fast", "name": "Grok 4 Fast", "provider": "xAI", "tags": ["极速", "联网"], "context": "131K", "vision": false, "default": true},
+  {"id": "gpt-4o-mini", "name": "GPT-4o Mini", "provider": "OpenAI", "tags": ["极速"], "context": "128K", "vision": true, "default": true},
   {"id": "gpt-4.1", "name": "GPT-4.1", "provider": "OpenAI", "tags": ["强力"], "context": "1000K", "vision": true, "default": true},
   {"id": "gemini-2.5-flash", "name": "Gemini 2.5 Flash", "provider": "Google", "tags": ["极速"], "context": "1000K", "vision": true, "default": true},
   {"id": "gemini-2.5-pro", "name": "Gemini 2.5 Pro", "provider": "Google", "tags": ["强力"], "context": "1000K", "vision": true, "default": true},
@@ -12,5 +12,6 @@
   {"id": "grok-3-fast", "name": "Grok 3 Fast", "provider": "xAI", "tags": ["极速"], "context": "131K", "vision": false}, 
   {"id": "meta-llama/llama-4-maverick", "name": "Llama 4 Maverick", "provider": "Meta", "tags": ["强力"], "context": "1000K", "vision": true}
 ]
+
 
 
