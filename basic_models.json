@@ -1,6 +1,6 @@
 [
   {"id": "gpt-4o-mini", "name": "GPT-4o Mini", "provider": "OpenAI", "tags": ["识图","极速"], "price":"0.6", "context": "128K", "vision": true, "default": true},
-  {"id": "grok-4.1", "name": "Grok-4.1", "provider": "xAI", "tags": ["联网","识图"], "price":"10", "context": "131K", "vision": true, "default": true}, 
-  {"id": "gpt-5.1-all", "name": "GPT-5.1-all", "provider": "OpenAI", "tags": ["联网","识图"], "price":"10","vision": true, "default": true},
+  {"id": "grok-4.1", "name": "Grok-4.1", "provider": "xAI", "tags": ["联网"], "price":"10", "context": "131K", "vision": true, "default": true}, 
+  {"id": "gpt-5.1-all", "name": "GPT-5.1-All", "provider": "OpenAI", "tags": ["联网"], "price":"10","vision": true, "default": true},
   {"id": "gemini-2.5-flash", "name": "Gemini 2.5 Flash", "provider": "Google", "tags": ["识图","极速"], "price":"10", "context": "1000K", "vision": true, "default": true}
 ]
