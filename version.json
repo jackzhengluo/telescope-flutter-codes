@@ -4,7 +4,7 @@
   "versionCode": 15,
   "minSupportedVersion": 1,
   "minSupportedVersionCode": 1,
-  "downloadUrl": "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-flutter-codes/releases/download/v2.0.0/Telescope-V2.0.0.apk",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-flutter-codes/releases/download/v2.0.0/app-release.apk",
   "releaseNotes": "1. 正式版标签：可上网、可识图、可语音对话\n2. 对话页模型目录与 GitHub basic_models.json 保持同步，首次安装或远端目录变化时自动对齐到第 1 项\n3. 当前模型独立持久化，后续启动不会在远端目录未变化时被错误重置\n4. 补完图片输入、多模态识图、语音输入、语音朗读与全屏 Conversation 语音对话\n5. 优化对话页交互细节，包括输入框焦点亮边、模型框高亮、图片按钮点击区域与 Conversation 按钮位置",
   "changelog": "1. 正式版标签：可上网、可识图、可语音对话\n2. 对话页模型目录与 GitHub basic_models.json 保持同步，首次安装或远端目录变化时自动对齐到第 1 项\n3. 当前模型独立持久化，后续启动不会在远端目录未变化时被错误重置\n4. 补完图片输入、多模态识图、语音输入、语音朗读与全屏 Conversation 语音对话\n5. 优化对话页交互细节，包括输入框焦点亮边、模型框高亮、图片按钮点击区域与 Conversation 按钮位置",
   "fileSize": 54439875,
