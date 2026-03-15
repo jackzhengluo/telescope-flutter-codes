@@ -1,5 +1,4 @@
 [
-  {"id": "gpt-4o-mini", "name": "GPT 3", "provider": "OpenAI", "tags": ["识图","极速"], "price":"0.6", "context": "128K", "vision": true, "search": false},
   {"id": "gemini-2.5-flash-all", "name": "Gemini 3 Flash", "provider": "Google","tags": [ "联网","识图","极速"],"price":"3.6","vision": true,"search": true},
   {"id": "gpt-5.1-all", "name": "GPT 5.3", "provider": "OpenAI", "tags": ["联网","识图","强力"], "price":"10","vision": true, "search": true}
 ]
