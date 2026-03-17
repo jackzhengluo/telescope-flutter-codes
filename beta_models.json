@@ -1,4 +1,5 @@
 [
+  {"id": "gpt-5-mini-2025-08-07", "name": "Gpt 5 Mini", "provider": "OpenAI","tags": ["极速","简洁"],"price":"1.2","vision": false,"search":false},
   {"id": "grok-4-1-fast-non-reasoning", "name": "Grok 4.1 Fast", "tags": [ "极速","简洁"],"price":"0.3","vision": false,"search":false},
   {"id": "grok-4-fast", "name": "Grok 4 Fast", "tags": [ "联网","识图"],"price":"0.5","vision": true,"search":true},
   {"id": "gemini-2.5-flash", "name": "Gemini 2.5 Flash","provider": "Google","tags": [ "识图","极速"],"price":"2","vision": true,"search":false},
