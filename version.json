@@ -1,15 +1,15 @@
 {
-  "version": "2.1.0",
-  "versionName": "2.1.0",
-  "versionCode": 16,
+  "version": "2.2.0",
+  "versionName": "2.2.0",
+  "versionCode": 17,
   "minSupportedVersion": 1,
   "minSupportedVersionCode": 1,
-  "downloadUrl": "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-flutter-codes/releases/download/v2.1.0/Telescope-V2.1.0.apk",
-  "releaseNotes": "1. 正式版标签：可上网、可识图、可语音对话\n2. Gemini 与中文豆包音色支持长文本渐进式朗读，普通聊天与 Conversation 都能更早开播\n3. Conversation 自然打断阈值重新调校，渐进式朗读会话也能被停止与打断\n4. 模型目录统一切到 ModelCatalog，基础/内测模型显式读取 vision 与 search 能力字段，内测模型支持缓存回退且最多可选 4 个\n5. 应用启动进入首页后会自动静默检查新版本，发现更新会直接弹窗提示升级\n6. 流式回复会隐藏 <think> 块，免责声明与远程纯文本拉取链路已同步整理",
-  "changelog": "1. 正式版标签：可上网、可识图、可语音对话\n2. Gemini 与中文豆包音色支持长文本渐进式朗读，普通聊天与 Conversation 都能更早开播\n3. Conversation 自然打断阈值重新调校，渐进式朗读会话也能被停止与打断\n4. 模型目录统一切到 ModelCatalog，基础/内测模型显式读取 vision 与 search 能力字段，内测模型支持缓存回退且最多可选 4 个\n5. 应用启动进入首页后会自动静默检查新版本，发现更新会直接弹窗提示升级\n6. 流式回复会隐藏 <think> 块，免责声明与远程纯文本拉取链路已同步整理",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-flutter-codes/releases/download/v2.2.0/Telescope-V2.2.0.apk",
+  "releaseNotes": "1. 设置页法务声明中的“免责声明”弹窗已移除“费用说明”部分，仅保留免责声明正文\n2. 版本号升级至 V2.2.0，用于验证应用内自动升级检测、下载与安装链路\n3. 安装包继续采用版本化文件名，避免同名 APK 被代理、浏览器或安装器缓存复用",
+  "changelog": "1. 设置页法务声明中的“免责声明”弹窗已移除“费用说明”部分，仅保留免责声明正文\n2. 版本号升级至 V2.2.0，用于验证应用内自动升级检测、下载与安装链路\n3. 安装包继续采用版本化文件名，避免同名 APK 被代理、浏览器或安装器缓存复用",
   "fileSize": 54767330,
-  "md5": "05D3CC4848E13F3A9BCAF948469D91A2",
-  "sha256": "FC6B0C891283F59385359BB40D7827EF0E79F57B29C4042B07153AA98B6FE32F",
+  "md5": "508D7A639A768FFE3BFBB7115B07C5C7",
+  "sha256": "08D3444EB4F68F315410988296D96728EAC9BD06E33D2C59A5DF618213A794BD",
   "forceUpdate": false,
   "isForceUpdate": false
 }
