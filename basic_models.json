@@ -1,5 +1,4 @@
 [
-  {"id": "gemini-2.5-flash", "name": "Gemini 2.5 Flash","provider": "Google","tags": [ "识图","极速"],"price":"2","vision": true,"search":false},
   {"id": "gemini-2.5-flash-all", "name": "Gemini 3 Flash", "provider": "Google","tags": [ "联网","识图","极速"],"price":"3.6","vision": true,"search": true},
   {"id": "gpt-5.1-all", "name": "GPT 5.3", "provider": "OpenAI", "tags": ["联网","识图","强力"], "price":"10","vision": true, "search": true}
 ]
