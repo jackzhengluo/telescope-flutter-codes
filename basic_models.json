@@ -1,6 +1,6 @@
 [
   {"id": "grok-4.3", "name": "grok-4.3", "tags": [ "对话"],"price":"2.5"},
-  {"id": "gpt-4o-mini-search-preview", "name": "gpt-4o-search", "tags": [ "对话","联网"],"price":"3.36","search":true},
+  {"id": "gpt-5-search-api", "name": "gpt-5-search-api", "tags": [ "对话","联网"],"price":"3.36 80","search":true},
   {"id": "gemini-3.5-flash", "name": "gemini-3.5-flash", "provider": "Google","tags": ["识图","强力"],"price":"13.5","vision": true},
   {"id": "gpt-5.5", "name": "gpt-5.5", "provider": "OpenAI", "tags": ["识图","强力"], "price":"18","vision": true}
 ]
