@@ -1,6 +1,4 @@
 [
   {"id": "gpt-5.6-luna", "name": "gpt-5.6-luna", "provider": "OpenAI", "tags": ["对话","识图"], "price":"4.8","vision": true},
-  {"id": "gpt-5.6-terra", "name": "gpt-5.6-terra", "provider": "OpenAI", "tags": ["识图","强力"], "price":"12","vision": true}, 
-  {"id": "gemini-3-pro-image", "name": "gemini-3-pro-image", "provider": "Google","tags": ["识图","绘画"],"price":"9","vision": true}, 
   {"id": "gpt-5-search-api", "name": "gpt-5-search","tags": ["对话", "联网"],"price":"80","search":true}
 ]
